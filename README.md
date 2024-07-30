@@ -1,1 +1,2 @@
 # Student-Data-Managment
+The Student Data Management System is a comprehensive C++ application designed to manage student information efficiently. This project aims to create a user-friendly system that allows for the storage, retrieval, and management of student data, including personal details, academic records, and contact information. The system is intended for use by educational institutions to streamline administrative tasks and improve data management processes.
